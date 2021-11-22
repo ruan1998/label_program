@@ -31,3 +31,6 @@
 
 ![rules](./pictures/rules.jpg)
 
+
+
+[label 网址](https://share.streamlit.io/ruan1998/label_program/main/main.py)
