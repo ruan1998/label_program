@@ -32,10 +32,11 @@ def _cover_origin_labels(user_labels):
         st.info("'label'列不在便签文件中!请上传正确标签文件")
 
 def upload_file():
-    user_labels = st.file_uploader("用户可上传标签数据以覆盖当前数据", type=["csv"])
-    if user_labels:
-        user_labels = pd.read_csv(user_labels)
-        _cover_origin_labels(user_labels)
+    with st.expander("upload file"):
+        user_labels = st.file_uploader("用户可上传标签数据以覆盖当前数据", type=["csv"])
+        if user_labels:
+            user_labels = pd.read_csv(user_labels)
+            _cover_origin_labels(user_labels)
 
 
 def format_info(idx):
