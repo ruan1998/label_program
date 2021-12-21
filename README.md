@@ -1,12 +1,10 @@
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/ruan1998/label_program/main/main.py)
+
 - [snowflake]([Worksheet (snowflakecomputing.com)](https://zr93224.ca-central-1.aws.snowflakecomputing.com/console#/internal/worksheet))
 
   - holmes928
 
   
-
-
-
-
 
 - 涉及三无
   - 6 三无人员祈福 。我肯定是三无，不过三无是哪三无？
@@ -33,4 +31,3 @@
 
 
 
-[label 网址](https://share.streamlit.io/ruan1998/label_program/main/main.py)
